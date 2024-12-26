@@ -1,0 +1,30 @@
+# Créé par https://www.toptal.com/developers/gitignore/api/java
+# Modifier sur https://www.toptal.com/developers/gitignore?templates=java
+
+### Java ###
+# Fichier de classe compilé
+*.classe
+
+# Fichier journal
+*.enregistrer
+
+# Fichiers BlueJ
+*.ctxt
+
+# Outils mobiles pour Java (J2ME)
+.mtj.tmp/
+
+# Fichiers de package #
+*.pot
+*.guerre
+*.nar
+*.oreille
+*.fermeture éclair
+*.tar.gz
+*.rar
+
+# journaux de plantage de la machine virtuelle, voir http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# Fin de https://www.toptal.com/developers/gitignore/api/java 
